@@ -307,7 +307,7 @@
 		"tab.activeForeground": "#171c26",
 		"tab.activeModifiedBorder": "#fc8180",
 		"tab.border": "#e2e8f0",
-		"tab.hoverBackground": "#fc8180",
+		"tab.hoverBackground": "#fc818092",
 		"tab.hoverBorder": "#fc8180",
 		"tab.hoverForeground": "#171c26",
 		"tab.inactiveBackground": "#e2e8f0",
