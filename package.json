@@ -1,0 +1,31 @@
+{
+  "name": "ship",
+  "displayName": "SHIP",
+  "description": "A theme for SHIP and SHIP-AI.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT License",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkyprmr/ship-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "SHIP-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SHIP-dark-color-theme.json"
+      },
+      {
+        "label": "SHIP-light",
+        "uiTheme": "vs",
+        "path": "./themes/SHIP-light-color-theme.json"
+      }
+    ]
+  }
+}
