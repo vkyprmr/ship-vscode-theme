@@ -1,14 +1,16 @@
 {
-  "name": "ship",
-  "displayName": "SHIP",
+  "name": "ship-ai",
+  "displayName": "SHIP-AI",
   "description": "A theme for SHIP and SHIP-AI.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "publisher": "SHIP-AI",
   "categories": [
     "Themes"
   ],
+  "icon": "images/ship-ai.png",
   "license": "MIT License",
   "repository": {
     "type": "git",

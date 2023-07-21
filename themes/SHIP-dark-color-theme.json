@@ -170,7 +170,7 @@
 		"list.activeSelectionForeground": "#e2e8f0",
 		"list.activeSelectionIconForeground": "#e2e8f0",
 		"list.dropBackground": "#171c2669",
-		"list.hoverBackground": "#fc8180",
+		"list.hoverBackground": "#fc818069",
 		"list.hoverForeground": "#e2e8f0",
 		"list.inactiveSelectionBackground": "#3d39524d",
 		"list.inactiveSelectionForeground": "#e2e8f0",
