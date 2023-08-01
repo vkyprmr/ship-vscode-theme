@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 vsc-extension-quickstart.md
-ship-ai-*.vsix
+*.vsix
